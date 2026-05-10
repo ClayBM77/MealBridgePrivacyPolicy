@@ -1,10 +1,10 @@
 # Meal Bridge — Privacy Policy
 
-**Last updated:** [DATE, e.g. May 10, 2026]
+**Last updated:** [May 10, 2026]
 
-**Contact:** [YOUR EMAIL OR SUPPORT PAGE]
+**Contact:** [bridger.mason@icloud.com]
 
-Meal Bridge (“the App”) is provided by **[YOUR NAME OR ORGANIZATION]**. This policy describes how information is handled when you use the App.
+Meal Bridge (“the App”) is provided by Bridger Mason. This policy describes how information is handled when you use the App.
 
 ## Summary
 
@@ -92,8 +92,6 @@ We may update this policy from time to time. The **“Last updated”** date at 
 
 ## 8. Contact
 
-Questions about this policy: **[YOUR EMAIL OR LINK]**
+Questions about this policy: **bridger.mason@icloud.com**
 
 ---
-
-*This document is provided as a template for a student / capstone project and is not legal advice. Have a qualified attorney review it if you distribute the App broadly or commercially.*
