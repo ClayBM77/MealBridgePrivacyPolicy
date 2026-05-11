@@ -1,6 +1,6 @@
 # Meal Bridge — Privacy Policy
 
-**Last updated:** [May 10, 2026]
+**Last updated:** [May 11, 2026]
 
 **Contact:** [bridger.mason@icloud.com]
 
@@ -12,7 +12,7 @@ Meal Bridge (“the App”) is provided by Bridger Mason. This policy describes 
 - **Meal suggestions** may be generated using **Google AI (Gemini)** accessed through **Firebase**; when you use that feature, relevant context you provide (such as family or meal preferences as reflected in the App) is sent to those services to produce suggestions.
 - The App does not sell your personal information.
 
-Replace bracketed placeholders before publishing. Update this document when you change features or third-party services.
+
 
 ---
 
